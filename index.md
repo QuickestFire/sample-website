@@ -1,6 +1,6 @@
-## Here's the Title
+# Here's the Title
 
-# Here's a heading.
+## Here's a heading.
 
 This is a sentence of some regular text.
 
