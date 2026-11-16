@@ -1,6 +1,4 @@
----
-title: I Like Hamsters
----
+## Here's the Title
 
 # Here's a heading.
 
